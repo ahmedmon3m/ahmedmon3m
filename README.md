@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Ahmed Abdel Moniem <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-abdel-monem-93385a204/">
-  <h3 align="center">Data Engineer 🌟.</h3></a>
+  <h3 align="center">Data Analyst 🌟.</h3></a>
 </p>
 
 <br>
 
 ## 🧑‍💻 About Me
 
-- 🚀 **Experienced Data Engineer** with expertise in **ETL, Data Pipelines, and Big Data.**  
+- 🚀 **Experienced Data Analyst** with expertise in **ETL, Data Pipelines, and Big Data.**  
 - 📊 Passionate about **Data Warehousing, Cloud Technologies, and Business Intelligence.**  
 - 🏆 Proven experience in **SQL, Python, Apache Spark, Kafka, and Power BI.**  
 - 🎓 **Bachelor’s Degree in Computer Science & Artificial Intelligence** – Helwan University.  
